@@ -1,5 +1,3 @@
-#https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/maximum-border-9767e14c/
-
 testcases=int(input())
 for _ in range(testcases):
     lines, length=(int(i) for i in (input().split(" ")))
